@@ -1,9 +1,10 @@
-# PIMaler
+PIMaler
+=======
 
-## Small project derived from Make 01/2020 - the BrachioGraph
+Small project derived from `Make 01/2020 <https://github.com/MakeMagazinDE/BrachioGraph>`_ and `https://www.brachiograph.art`_
 
------
-TODO:
+
+TODO
 -----
  - add links here
  - refer to original BrachioGraph as well
@@ -11,11 +12,14 @@ TODO:
  - sphinx to build docs?!
 
 
-### Sphinx
+Sphinx
+------
 
-$ pip install sphinx-rtd-theme
+``$ pip install sphinx-rtd-theme``
 
 conf.py needs to look like this
+
+::
 
 import sphinx_rtd_theme
 
@@ -25,3 +29,5 @@ extensions = [
 ]
 
 html_theme = "sphinx_rtd_theme"
+
+
