@@ -25,3 +25,7 @@ extensions = [
     "sphinx_rtd_theme",
 ]
 html_theme = "sphinx_rtd_theme"
+
+
+
+`PIGPIO API <http://abyz.me.uk/rpi/pigpio/python.html>`_
